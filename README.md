@@ -1,3 +1,13 @@
+# Datos Básicos
+
+**URL Sitio**: Sin sitio aun
+
+Lo aprendido en este proyecto:
+
+- Styled Components, con [emotion](https://emotion.sh/docs/introduction)
+- Transition Groups
+- Spinners
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
